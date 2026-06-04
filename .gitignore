@@ -31,5 +31,4 @@ dist-ssr
 *.sln
 *.sw?
 
-.lovable
-.lovable/*
+.lovable/
